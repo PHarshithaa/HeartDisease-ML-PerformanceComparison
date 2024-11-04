@@ -1,4 +1,4 @@
-# HeartDisease-ML-PerformanceComparison
+## HeartDisease-ML-PerformanceComparison
 
 Heart disease is a major global health issue, so early diagnosis is important for better outcomes and reducing healthcare demands.                          
 Predicting the risk of heart disease is complex due to various factors such as age, lifestyle, and genetics, but effective prediction can lead to timely and targeted interventions.
